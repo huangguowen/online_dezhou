@@ -1,7 +1,7 @@
 <?php 
 
 	/**
-	* 
+	* finnace c
 	*/
 	class Finanace extends MY_Controller
 	{

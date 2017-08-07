@@ -1,7 +1,7 @@
 <?php 
 
 	/**
-	* 
+	* club c
 	*/
 	class Club extends MY_Controller
 	{
